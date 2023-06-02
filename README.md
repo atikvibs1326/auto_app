@@ -32,7 +32,8 @@ Run the app: `npm start or expo start`
 
 Follow the instructions in the console to launch the app on your device or emulator.  
 
-##Requirements
+## Requirements    
+
 Node.js
 React Native
 Expo CLI
@@ -45,18 +46,25 @@ MongoDB (for authentication, database, and storage)
 Mapbox (for maps and location services)
 Payment Gateway SDK (e.g., GooglePay, Card, etc.)
 GoogleAPI (for API calls)
-Redux (for state management)
+Redux (for state management)  
 
-Contributing
+
+ ## **Contributing**  
+ 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
+## **License**  
 
-Contact
-For any inquiries or support, please contact [khochikaratik13@gmail.com]
+This project is licensed under the MIT License.  
 
-Acknowledgements
+
+## **Contact**  
+
+For any inquiries or support, please contact [khochikaratik13@gmail.com]  
+
+
+## **Acknowledgements**  
+
 We would like to express our gratitude to the following individuals and organizations for their contributions to this project:
 
 [atikraja khochikar]
