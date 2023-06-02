@@ -1,7 +1,8 @@
-## Autorickshaw Management App
-![Screenshot](![image]![image](https://github.com/atikvibs1326/auto_app/assets/64660852/77596e9d-9c39-461b-808e-020ec680ccde)
-)
-)
+## Autorickshaw Management App  
+
+![Screenshot](![image]![image](https://github.com/atikvibs1326/auto_app/assets/64660852/77596e9d-9c39-461b-808e-020ec680ccde)   
+
+
 The Autorickshaw Management App is a mobile application built using React Native. It is designed to simplify the management and operations of autorickshaws. This app provides a comprehensive solution for autorickshaw drivers and fleet owners to streamline their daily tasks, track their vehicles, manage bookings, and enhance overall efficiency.
 
 ### Features
